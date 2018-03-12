@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ultima
+Comment=Ultima P2P Cryptocurrency
+Exec=ultima-qt %u
+Terminal=false
+Type=Application
+Icon=ultima128
+MimeType=x-scheme-handler/ultima;
+Categories=Office;Finance;
+Name[en_US]=ultima-qt.desktop

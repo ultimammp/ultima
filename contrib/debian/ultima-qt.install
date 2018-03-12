@@ -1,0 +1,6 @@
+usr/local/bin/ultima-qt usr/bin
+share/pixmaps/ultima32.xpm usr/share/pixmaps
+share/pixmaps/ultima16.xpm usr/share/pixmaps
+share/pixmaps/ultima128.png usr/share/pixmaps
+debian/ultima-qt.desktop usr/share/applications
+debian/ultima-qt.protocol usr/share/kde4/services/
